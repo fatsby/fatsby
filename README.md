@@ -1,7 +1,9 @@
 ## 🚀💻 Technologies & Tools
 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,spring,java,mysql,react,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <br>
 
 ## 📊 GitHub Stats
