@@ -2,7 +2,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,spring,java,mysql,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,spring,java,mysql,react,nodejs,figma)](https://skillicons.dev)
 
 <br>
 
